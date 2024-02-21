@@ -15,3 +15,4 @@
 
 *κατά την διάρκεια της υλοποίησης του project θα  ενημερώσουμε το αρχείο με πιο τεχνικές λεπτομέρειες της μηχανής αναζήτησης και το API της Lucene .*
 
+![image](https://github.com/KLamaniakou/SongSearcher/assets/115186022/47693fe3-69c1-421e-bf9f-5c2f7b32a2d6)
